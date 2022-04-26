@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+    // This is a new line
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
